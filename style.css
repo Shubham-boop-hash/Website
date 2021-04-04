@@ -1,0 +1,42 @@
+body {
+    text-align: center;
+    background-color: lightgreen;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD1 font-size:20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+font-family: 'Montserrat',
+sans-serif;
+
+img {
+    height: 400px;
+    width: 380px
+}
+
+p {
+    font-size: 18px;
+    padding: 20px;
+}
+
+.menu {
+    list-style: none;
+    position: fixed;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+
+.links {
+    float: left;
+    color: aqua;
+    padding-top: 5px;
+    padding-left: 9px;
+    padding-right: 9px;
+    padding-bottom: 5px;
+    font-family: inherit;
+    font-size: 20px;
+}
